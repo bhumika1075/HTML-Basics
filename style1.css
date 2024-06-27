@@ -1,0 +1,49 @@
+/*
+.box{
+    width: 200px;
+    height: 150px;
+    border: 1px solid blue;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    
+}
+.small{
+    width: 150px;
+    height: 75px;
+    border: 2px solid green;
+
+}
+
+h1{
+    background-color: blueviolet;
+}
+
+*/
+/*
+a:hover{
+    background-color: blueviolet;
+    color: beige;
+
+}
+a{
+    color: blueviolet;
+    background-color: aqua;
+    padding: 20px;
+    border: 2px solid yellow;
+
+}
+
+*/
+/*
+table,tr,th,td{
+    border: 1px solid black;
+   
+    border-collapse:collapse;
+
+}
+td:nth-child(odd),th:nth-child(odd){
+ background-color: aqua;
+}
+*/
+
